@@ -6,9 +6,9 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+{% include 03-links.md %}
 
 <br>
+{% include 02-image.md %}
 
-{% include 03-links.md %}
 
